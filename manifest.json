@@ -1,0 +1,13 @@
+{
+  "name": "Tabela Dinâmica Looker Studio",
+  "id": "tabela-dinamica",
+  "organization": "julianoMega",
+  "version": "1.0",
+  "components": [
+    {
+      "id": "myViz",
+      "name": "Tabela Dinâmica",
+      "file": "myViz.js"
+    }
+  ]
+}
