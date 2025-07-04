@@ -6,8 +6,9 @@
   "components": [
     {
       "id": "myViz",
-      "file": "myViz.js",
-      "name": "Custom Table Viz"
+      "name": "Custom Table Viz",
+      "file": "myViz.js"
     }
-  ]
+  ],
+  "devMode": true
 }
