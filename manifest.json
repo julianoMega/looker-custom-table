@@ -1,14 +1,13 @@
 {
-  "name": "Looker Custom Table",
-  "id": "looker-custom-table",
-  "organization": "julianoMega",
-  "version": "1",
+  "name": "Tabela Dinâmica Looker Studio",
+  "id": "tabela-dinamica",
+  "organization": "Exemplo",
+  "version": "1.0",
   "components": [
     {
       "id": "myViz",
-      "name": "Custom Table Viz",
+      "name": "Tabela Dinâmica",
       "file": "myViz.js"
     }
-  ],
-  "devMode": true
+  ]
 }
